@@ -16,8 +16,8 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
-- demo/*
 - alembic-jekyll-theme.gemspec
+- sub-pages
 
 # 2. Installed Gems
 gems:

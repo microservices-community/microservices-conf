@@ -1,5 +1,7 @@
-Permanent residents of the countries of the Schengen area are exempt from a visa to visit Denmark. Other countries, such as United States of America or Canada, have bilateral agreements allowing their citizens to visit Denmark without visas. Other visitors may require a short-stay visa. For more information, visit the <a href="http://um.dk/en/travel-and-residence/danish-visa-rules">Ministry of Foreign Affairs of Denmark</a> website or check with a local Danish consulate about visa requirements for your country of residence and/or nationality.
-
-**Visa Support Letter**
-
-The conference will provide visa support letters to confirmed participants. Please contact CONTACT NAME <name [at] domain [dot] com>, providing your full name, affiliation and address. You will receive directions for the online letter application procedure, and will have to send back your registration number to CONTACT NAME to complete the process. Please do this as soon as possible as visa applications may take more than two months.
+Permanent residents of the countries of the Schengen area are exempt from a visa
+to visit Denmark. Other countries, such as United States of America or Canada,
+have bilateral agreements allowing their citizens to visit Denmark without
+visas. Other visitors may require a short-stay visa. For more information, visit
+the <a href="http://um.dk/en/travel-and-residence/danish-visa-rules">Ministry of
+Foreign Affairs of Denmark</a> website or check with a local Danish consulate
+about visa requirements for your country of residence and/or nationality.

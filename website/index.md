@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Microservices 2017
-feature_image: "https://unsplash.it/1300/400?image=971"
-image: "https://unsplash.it/600/400?image=971"
+feature_image: "assets/images/andersen_museum.jpg"
+image: "assets/images/andersen_museum.jpg"
 excerpt: "The first conference on microservices is a forum for the discussion of all aspects of designing and programming microservice architectures. Both theoretical and experimental contributions are welcome, on topics ranging from formal frameworks to experience reports."
 ---
 

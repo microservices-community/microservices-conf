@@ -1,7 +1,7 @@
 ---
 title: Sponsoring
 layout: page
-feature_image: "https://unsplash.it/1300/400?image=1061"
+feature_image: "/assets/images/dater.jpg"
 ---
 
 Corporate support funds are used to subsidize students—the lifeblood of our community—and in turn serve to raise the community profile of the supporting companies. Microservices 2017 has several levels of financial support. The support levels, and their associated benefits and pledge amounts and benefits are as follows (costs in Euro).

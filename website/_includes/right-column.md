@@ -6,16 +6,26 @@
 
 <li class="list-group-item">
 <p>
-<strong>Mon 19 Jun 2017</strong>
+<strong>Fri 1 Sept. 2017</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </span>
 </p>
-<p>Paper Submission</p>
+<p>Paper Submission Acceptance</p>
 </li>
 
 <li class="list-group-item">
-<p><strong>Mon July 2017</strong>
+<p>
+<strong>Fri 1 Sept. 2017</strong>
+<span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
+<span class="glyphicon glyphicon-time"></span>
+</span>
+</p>
+<p>Paper Submission Deadline</p>
+</li>
+
+<li class="list-group-item">
+<p><strong>XXX DD MM 2017</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>
@@ -23,7 +33,7 @@
 </li>
 
 <li class="list-group-item">
-<p><strong>Mon 31 July 2017</strong>
+<p><strong>XXX DD MM 2017</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>
@@ -31,7 +41,7 @@
 </li>
 
 <li class="list-group-item">
-<p><strong>Mon 31 Aug 2017</strong>
+<p><strong>XXX DD MM 2017</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>

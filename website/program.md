@@ -1,7 +1,7 @@
 ---
 title: Program
 layout: page
-feature_image: "https://unsplash.it/1300/400?image=1061"
+feature_image: "/assets/images/skal_odense.jpg"
 ---
 <ul class="nav nav-tabs nav-justified">
   <li role="presentation" class="active">

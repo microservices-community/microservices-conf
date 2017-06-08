@@ -15,7 +15,7 @@
 </li>
 
 <li class="list-group-item">
-<p><strong>TBD</strong>
+<p><strong>Fri 15 Sept. 2017</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>
@@ -23,7 +23,7 @@
 </li>
 
 <li class="list-group-item">
-<p><strong>TBD</strong>
+<p><strong>Mon 9 Oct. 2017</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>

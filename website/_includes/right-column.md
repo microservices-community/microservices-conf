@@ -11,21 +11,11 @@
 <span class="glyphicon glyphicon-time"></span>
 </span>
 </p>
-<p>Paper Submission Acceptance</p>
-</li>
-
-<li class="list-group-item">
-<p>
-<strong>Fri 1 Sept. 2017</strong>
-<span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
-<span class="glyphicon glyphicon-time"></span>
-</span>
-</p>
 <p>Paper Submission Deadline</p>
 </li>
 
 <li class="list-group-item">
-<p><strong>XXX DD MM 2017</strong>
+<p><strong>TBD</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>
@@ -33,7 +23,7 @@
 </li>
 
 <li class="list-group-item">
-<p><strong>XXX DD MM 2017</strong>
+<p><strong>TBD</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>
@@ -41,11 +31,19 @@
 </li>
 
 <li class="list-group-item">
-<p><strong>XXX DD MM 2017</strong>
+<p><strong>TBD</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>
 <p>Registration</p>
+</li>
+
+<li class="list-group-item">
+<p><strong>TBD</strong>
+<span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
+<span class="glyphicon glyphicon-time"></span>
+</p>
+<p>Day of the Event</p>
 </li>
 
 </ul>

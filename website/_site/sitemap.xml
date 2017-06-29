@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/attending/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/program/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sponsoring/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/include_md.html</loc>
+<lastmod>2017-06-29T15:45:29+02:00</lastmod>
+</url>
+</urlset>

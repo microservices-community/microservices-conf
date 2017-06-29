@@ -20,7 +20,7 @@ exclude:
 - sub-pages
 
 # 2. Installed Gems
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
@@ -90,6 +90,7 @@ navigation_header:
   Home: /
   Attending: /attending/
   Program: /program/
+  Committees: /committees/
   Sponsoring: /sponsoring/
 
 # navigation_footer:

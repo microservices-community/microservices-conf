@@ -43,7 +43,7 @@
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>
-<p>Day of the Event</p>
+<p>Workshop</p>
 </li>
 
 </ul>

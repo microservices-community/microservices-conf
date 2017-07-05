@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://microservices.io/attending/</loc>
+<loc>http://localhost:4000/attending/</loc>
 </url>
 <url>
-<loc>https://microservices.io/committees/</loc>
+<loc>http://localhost:4000/committees/</loc>
 </url>
 <url>
-<loc>https://microservices.io/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://microservices.io/program/</loc>
+<loc>http://localhost:4000/program/</loc>
 </url>
 <url>
-<loc>https://microservices.io/sponsoring/</loc>
+<loc>http://localhost:4000/registration/</loc>
 </url>
 <url>
-<loc>https://microservices.io/include_md.html</loc>
+<loc>http://localhost:4000/submission/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/include_md.html</loc>
 <lastmod>2017-06-29T15:45:29+02:00</lastmod>
 </url>
 </urlset>

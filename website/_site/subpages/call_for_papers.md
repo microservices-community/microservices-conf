@@ -30,9 +30,9 @@ Topics of interest include (but are not limited to):
 We solicit contributions in the form of extended abstracts with a maximum length
 of two pages. A submission should describe a talk to be given at the event.
 Talks can be based on work in progress, scientific work published or submitted
-for publication, or practical experience reports. Accepted publications will be
-collected in an informal book of abstracts, which will be distributed at the
-event.
+for publication, or practical experience reports. Practical demonstrations of
+tools are also welcome. Accepted publications will be collected in an informal
+book of abstracts, which will be distributed at the event.
 
 Microservices 2017 will employ a lightweight reviewing process.
 

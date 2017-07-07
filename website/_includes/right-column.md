@@ -40,7 +40,7 @@
 </li>
 
 <li class="list-group-item">
-<p><strong>Week 23-27 Oct. 2017</strong>
+<p><strong>23-27 Oct. (TBD in Week 43) 2017</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>

@@ -2,7 +2,7 @@
                           Call for Papers
                           Microservices'17
             1st International Conference on Microservices
-              Odense, Denmark, October Week 23-27, 2017
+              Odense, Denmark, October 23-27 (TBD), 2017
                      http://conf-micro.services/
 ---------------------------------------------------------------------
 

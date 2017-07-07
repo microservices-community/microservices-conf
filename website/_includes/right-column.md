@@ -1,7 +1,7 @@
-<div class="panel panel-primary"> 
+<div class="panel panel-primary">
 <div class="panel-heading">
 <strong>Important Dates</strong>
-</div> 
+</div>
 <ul class="list-group">
 
 <li class="list-group-item">
@@ -31,28 +31,29 @@
 </li>
 
 <li class="list-group-item">
-<p><strong>TBD</strong>
+<p><strong>Mon 2 Oct. 2017</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>
+
 <p>Registration</p>
 </li>
 
 <li class="list-group-item">
-<p><strong>TBD</strong>
+<p><strong>Week 23-27 Oct. 2017</strong>
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>
-<p>Workshop</p>
-</li>
 
+<p>Conference (the actual days will be announced soon)</p>
+</li>
 </ul>
 </div>
 
-<div class="panel panel-primary"> 
+<div class="panel panel-primary">
 <div class="panel-heading">
 <strong>Supporters</strong>
-</div> 
+</div>
 <ul class="list-group">
 
 <li class="list-group-item">

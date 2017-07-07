@@ -30,18 +30,18 @@ plugins:
 - jemoji
 
 # 3. Gem settings
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+# jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+# twitter:
+#   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
+# author: DavidDarnes # jekyll-seo-tag > default author
+# social: # jekyll-seo-tag > social overrides
+#   name: David Darnes # jekyll-seo-tag > real name
+#   links:  # jekyll-seo-tag > social aliases (sameAs)
+#     - https://twitter.com/DavidDarnes
+#     - https://www.facebook.com/daviddarnes
+#     - https://www.linkedin.com/in/daviddarnes
+#     - https://plus.google.com/+DavidDarnes
+#     - https://github.com/daviddarnes
 
 # 4. Jekyll settings
 sass:
@@ -82,7 +82,7 @@ header_left: |
   Microservices</h2></a> 
 header_right: |
   <p style="margin-top: 10px; margin-bottom: -5px;">Odense</p>
-  <p>TDB</p>
+  <p>Oct. 2017</p>
 
 
 # 8. Site navigation
@@ -96,12 +96,12 @@ navigation_header:
 # navigation_footer:
 #   Created by David Darnes: https://darn.es
 
-social_links:
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+# social_links:
+#   Twitter: https://twitter.com/DavidDarnes
+#   LinkedIn: https://www.linkedin.com/in/daviddarnes
+#   Google+: https://plus.google.com/+DavidDarnes
+#   GitHub: https://github.com/daviddarnes
+#   link: https://darn.es
 
 sharing_links:
   Twitter: "#1DA1F2"

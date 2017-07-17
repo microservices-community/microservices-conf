@@ -20,8 +20,7 @@ feature_image: "/assets/images/lion.jpg"
 
 ### Program Committee
 
-[Will be expanded soon]
-
+- Pierre-Malo Deniélou, Google
 - Nicola Dragoni, Technical University of Denmark / Örebro University
 - Schahram Dustdar, TU Wien
 - Saverio Giallorenzo, University of Bologna / INRIA
@@ -29,4 +28,5 @@ feature_image: "/assets/images/lion.jpg"
 - Alberto Lluch Lafuente, Technical University of Denmark
 - Einar Broch Johnsen, University of Oslo
 - Manuel Mazzara, Innopolis University
+- Steve Ross-Talbot, Estafet
 - Gwen Salaün, Inria Grenoble - Rhône-Alpes

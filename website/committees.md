@@ -28,6 +28,7 @@ feature_image: "/assets/images/lion.jpg"
 - Alberto Lluch Lafuente, Technical University of Denmark
 - Einar Broch Johnsen, University of Oslo
 - Manuel Mazzara, Innopolis University
+- Kevin Ottens, KDAB
 - Steve Ross-Talbot, Estafet
 - Gwen Salaün, Inria Grenoble - Rhône-Alpes
 - Nobuko Yoshida, Imperial College London

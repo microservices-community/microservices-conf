@@ -30,3 +30,4 @@ feature_image: "/assets/images/lion.jpg"
 - Manuel Mazzara, Innopolis University
 - Steve Ross-Talbot, Estafet
 - Gwen Salaün, Inria Grenoble - Rhône-Alpes
+- Nobuko Yoshida, Imperial College London

@@ -20,6 +20,7 @@ feature_image: "/assets/images/lion.jpg"
 
 ### Program Committee
 
+- Farhad Arbab, Leiden University and CWI
 - Pierre-Malo Deniélou, Google
 - Nicola Dragoni, Technical University of Denmark / Örebro University
 - Schahram Dustdar, TU Wien
@@ -27,8 +28,10 @@ feature_image: "/assets/images/lion.jpg"
 - Claudio Guidi, italianaSoftware
 - Alberto Lluch Lafuente, Technical University of Denmark
 - Einar Broch Johnsen, University of Oslo
+- Sung-Shik Jongmans, Open University of the Netherlands
 - Manuel Mazzara, Innopolis University
 - Kevin Ottens, KDAB
 - Steve Ross-Talbot, Estafet
 - Gwen Salaün, Inria Grenoble - Rhône-Alpes
 - Nobuko Yoshida, Imperial College London
+- Olaf Zimmermann, University of Applied Sciences of Eastern Switzerland

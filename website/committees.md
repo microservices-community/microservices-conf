@@ -13,6 +13,7 @@ feature_image: "/assets/images/lion.jpg"
 
 ### Organising Committee
 
+- Barbara Tvede Andersen, University of Southern Denmark
 - Luís Cruz-Filipe, University of Southern Denmark
 - Saverio Giallorenzo (Publicity Chair), University of Bologna / INRIA
 - Fabrizio Montesi, University of Southern Denmark
@@ -34,4 +35,5 @@ feature_image: "/assets/images/lion.jpg"
 - Steve Ross-Talbot, Estafet
 - Gwen Salaün, Inria Grenoble - Rhône-Alpes
 - Nobuko Yoshida, Imperial College London
+- Ingrid Chieh Yu, University of Oslo
 - Olaf Zimmermann, University of Applied Sciences of Eastern Switzerland

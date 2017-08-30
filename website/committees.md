@@ -16,6 +16,7 @@ feature_image: "/assets/images/lion.jpg"
 - Barbara Tvede Andersen, University of Southern Denmark
 - Luís Cruz-Filipe, University of Southern Denmark
 - Saverio Giallorenzo (Publicity Chair), University of Bologna / INRIA
+- Ronald Jabangwe, University of Southern Denmark
 - Fabrizio Montesi, University of Southern Denmark
 - Marco Peressotti, University of Southern Denmark
 

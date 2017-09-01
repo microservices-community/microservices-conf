@@ -6,7 +6,7 @@
 
 <li class="list-group-item">
 <p>
-<strong>Fri 1 Sept. 2017</strong>
+<del>Fri 1</del> <strong>Mon 4 Sept. 2017</strong> (Ext'd)
 <span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
 <span class="glyphicon glyphicon-time"></span>
 </span>

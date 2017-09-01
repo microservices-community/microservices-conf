@@ -36,7 +36,7 @@ book of abstracts, which will be distributed at the event.
 
 Microservices 2017 will employ a lightweight reviewing process.
 
-**Deadline**: The deadline for submissions <del>is September 1st</del> has been extended to September 4th, 2017, [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth). Submissions will be accepted from August 15th, 2017. Resubmissions are allowed until the submission deadline. Contributions are to be submitted through EasyChair using the following link: [https://easychair.org/conferences/?conf=microservices2017](https://easychair.org/conferences/?conf=microservices2017).
+**Deadline**: The deadline for submissions <del>is September 1st</del> has been extended to September 4th, 2017, 12 a.m. CET. Submissions will be accepted from August 15th, 2017. Resubmissions are allowed until the submission deadline. Contributions are to be submitted through EasyChair using the following link: [https://easychair.org/conferences/?conf=microservices2017](https://easychair.org/conferences/?conf=microservices2017).
 
 **Formatting**: Submissions must be in PDF format, printable in black and white on A4 paper, and interpretable by common PDF tools. All submissions must be prepared using the Easychair template, available for [LaTeX](https://easychair.org/publications/easychair.zip) and [MS Word](https://easychair.org/publications/easychair.docx).
 

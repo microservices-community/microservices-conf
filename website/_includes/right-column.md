@@ -6,8 +6,8 @@
 
 <li class="list-group-item">
 <p>
-<del>Fri 1</del> <strong>Mon 4 Sept. 2017</strong> (Ext'd)
-<span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
+<del>Fri 1</del> <strong>Mon 4 Sept. 2017, 12 a.m.</strong> (Ext'd)
+<span data-toggle="tooltip" title="Timezone: CET">
 <span class="glyphicon glyphicon-time"></span>
 </span>
 </p>

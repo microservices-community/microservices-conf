@@ -7,7 +7,7 @@
 <li class="list-group-item">
 <p>
 <del>Fri 1</del> <strong>Mon 4 Sept. 2017, 12 a.m.</strong> (Ext'd)
-<span data-toggle="tooltip" title="Timezone: CET">
+<span data-toggle="tooltip" title="Timezone: CET (UTC+1h)">
 <span class="glyphicon glyphicon-time"></span>
 </span>
 </p>
@@ -40,8 +40,8 @@
 </li>
 
 <li class="list-group-item">
-<p><strong>23-27 Oct. (TBD in Week 43) 2017</strong>
-<span data-toggle="tooltip" title="Timezone: AoE (UTC-12h)">
+<p><strong>25-26 Oct. 2017</strong>
+<span data-toggle="tooltip" title="Timezone: CET (UTC+1h)">
 <span class="glyphicon glyphicon-time"></span>
 </p>
 

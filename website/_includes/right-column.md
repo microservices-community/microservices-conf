@@ -45,7 +45,7 @@
 <span class="glyphicon glyphicon-time"></span>
 </p>
 
-<p>Conference (the actual days will be announced soon)</p>
+<p>Conference</p>
 </li>
 </ul>
 </div>

@@ -16,7 +16,7 @@ feature_image: "/assets/images/skal_odense.jpg"
 </div>
 
 <div role="tabpanel" class="tab-pane" id="abstracts">
- Links to the abstracts of the presentations at Microservices 2017 (TBA).
+  {% include_relative include_md.html file="subpages/abstracts.md" %}
 </div>
 
 <div role="tabpanel" class="tab-pane" id="keynotes" markdown="1">

@@ -12,7 +12,7 @@ feature_image: "/assets/images/skal_odense.jpg"
 
 <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="program">
-  Complete program of Microservices 2017 (TBA).
+  {% include_relative include_md.html file="subpages/program.md" %}
 </div>
 
 <div role="tabpanel" class="tab-pane" id="abstracts">

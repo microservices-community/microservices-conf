@@ -8,7 +8,7 @@
 <tr><td>12.10</td><td> Lunch</td></tr>
 <tr><td>13.40</td><td> <a href="#s2">Session 2</a></td></tr>
 <tr><td>15.00</td><td> Break</td></tr>
-<tr><td>15.30</td><td> Session 3, split <a href="#s3a">3a</a>, <a href="#s3b">3b</a></td></tr>
+<tr><td>15.30</td><td> Session <a href="#s3">3</a></td></tr>
 <tr><td>17.10</td><td>End of first day</td></tr>
 <tr><td>18.00</td><td>Dinner</td></tr>
 </table>
@@ -21,9 +21,9 @@
 <tr><td>10.00</td><td>Break</td></tr>
 <tr><td>10.30</td><td>Panel: The Future of Microservices</td></tr>
 <tr><td>12.00</td><td>Lunch</td></tr>
-<tr><td>13.30</td><td>Session 4, split <a href="#s4a">4a</a>, <a href="#s4b">4b</a></td></tr>
+<tr><td>13.30</td><td><a href="#s4">Session 4</a></td></tr>
 <tr><td>15.00</td><td>Break</td></tr>
-<tr><td>15.30</td><td>Session 5</td></tr>
+<tr><td>15.30</td><td><a href="#s4">Session 5</a></td></tr>
 <tr><td>17.00</td><td>End of second day</td></tr>
 </table>
 </div>
@@ -49,50 +49,36 @@
    <dt>14.40</dt><dd>Marcelo França and Claudia Werner <em>Discovering and Comparing Microservices</em></dd>
   </dl>
 
-- *Session 3*, split
-<div class="col-xs-6">
-<a id="s3a"></a><em>Session 3a: Support</em>
+- <a id="s3"></a>*Session 3*
 
+  <ul><li><em>Session 3a: Support</em>
   <dl>
    <dt>15.30</dt><dd>Immaculee Joselyne Munezero, Benjamin Kangwa and Joseph Balikuddenbe <em>A Framework to Modernize SME Application in Emerging Economies: Microservice Architecture Pattern Approach</em></dd>
    <dt>16.00</dt><dd>Peter-Christian Quint and Nane Kratzke <em>Towards a Description of Elastic Cloud-native Applications for Transferable Multi-Cloud-Deployments</em></dd>
-  </dl>  
-</div>  
-<div class="col-xs-6">
-<a id="s3b"></a><em>Session 3b: Applications</em>
+  </dl>    
+  </li>
 
+  <li><em>Session 3b: Applications</em>
   <dl>
    <dt>16.20</dt><dd>Michail Kargakis <em>Migrating the OpenShift CI infrastructure to a microservice architecture</em></dd>
    <dt>16.50</dt><dd>Jonas Malte Hinchely <em>Open Data Framework</em></dd>
    </dl>
-</div>  
+  </li></ul>
+  
+- <a id="s4"></a>*Session 4*
 
-<div class="clearfix"></div>
-
-- *Session 4*, split
-
-<div class="col-xs-6">
-
-<a id="s4a"></a><em>Session 4a: Applications</em>
-
+  <ul><li><em>Session 4a: Applications</em>
   <dl>
    <dt>13.30</dt><dd>Eugenio Concepción, Pablo Gervás and Gonzalo Méndez <em>A microservice-based architecture for story generation</em></dd>
    <dt>14.00</dt><dd>Balint Maschio <em>The use of microservices to implement cross process integration and data sharing</em></dd>
   </dl>
-
-</div>  
-
-<div class="col-xs-6">
-
-<a id="s4b"></a><em>Session 4b: Tools</em>
-
+  </li>
+    
+  <li><em>Session 4b: Tools</em>
   <dl>
    <dt>14.30</dt><dd>Robert Ramač and Vladimir Mandic <em>The Challenges of Developing a Multi-Domain Microservices Platforms: The Case of REQSTE</em></dd>
   </dl>
-
-</div>  
-
-<div class="clearfix"></div>
+  </li></ul>
 
 - <a id="s5"></a>*Session 5: Tools*
 

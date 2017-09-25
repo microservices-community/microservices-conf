@@ -1,5 +1,5 @@
 
-## Long Talks
+## Regular Talks
 
 <table class="table table-hover">
 
@@ -25,7 +25,7 @@
 <td>Formalizing Domain-driven Microservice Design with UML's Profile Mechanism</td></tr>
 
 <tr><td class="text-muted " >Robert Ramač and Vladimir Mandic</td>
-<td>The Challenges of Developing a Multi-Domain Microservices Platforms: The Case of REQSTER</td></tr>
+<td>The Challenges of Developing a Multi-Domain Microservices Platform: The Case of REQSTER</td></tr>
 
 <tr><td class="text-muted">Jonas Sorgalla</td>
 <td>AjiL: A Graphical Modeling Language for the Development of Microservice Architectures</td></tr>

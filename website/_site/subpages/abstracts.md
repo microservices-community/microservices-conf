@@ -24,7 +24,7 @@
 <tr><td class="text-muted">Florian Rademacher</td>
 <td>Formalizing Domain-driven Microservice Design with UML's Profile Mechanism</td></tr>
 
-<tr><td class="text-muted " >Robert Ramač and Vladimir Mandic</td>
+<tr><td class="text-muted " >Robert Ramač and Vladimir Mandić</td>
 <td>The Challenges of Developing a Multi-Domain Microservices Platform: The Case of REQSTER</td></tr>
 
 <tr><td class="text-muted">Jonas Sorgalla</td>

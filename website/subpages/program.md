@@ -76,7 +76,7 @@
     
   <li><em>Session 4b: Tools</em>
   <dl>
-   <dt>14.30</dt><dd>Robert Ramač and Vladimir Mandic <em>The Challenges of Developing a Multi-Domain Microservices Platform: The Case of REQSTE</em></dd>
+   <dt>14.30</dt><dd>Robert Ramač and Vladimir Mandić <em>The Challenges of Developing a Multi-Domain Microservices Platform: The Case of REQSTER</em></dd>
   </dl>
   </li></ul>
 

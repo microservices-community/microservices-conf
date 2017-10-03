@@ -4,6 +4,11 @@ layout: page
 feature_image: "/assets/images/dater.jpg"
 ---
 
-<div class="container"></div>
+<div class="col-xs-12">
+  <p class="lead">To register to Microservices 2017, please click on the button below, you will be redirected to the conference registration page.</p>
 
-Registration details will be available soon.
+  <p style="margin:2em;" class="text-center">
+    <a target="_blank" href="http://webpay.sdu.dk/system/micro17/"><button style="padding:1em;" type="button" class="btn btn-primary btn-lg"> Link to the Registration Page*</button></a></p>
+
+  <p>*The registration service is provided by SDU.</p>
+</div>

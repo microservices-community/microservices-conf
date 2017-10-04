@@ -8,8 +8,8 @@
 <tr><td>12.10</td><td> Lunch</td></tr>
 <tr><td>13.40</td><td> <a href="#s2">Session 2</a></td></tr>
 <tr><td>15.00</td><td> Break</td></tr>
-<tr><td>15.30</td><td> Session <a href="#s3">3</a></td></tr>
-<tr><td>17.10</td><td>End of first day</td></tr>
+<tr><td>15.40</td><td> Session <a href="#s3">3</a></td></tr>
+<tr><td>17.00</td><td>End of first day</td></tr>
 <tr><td>18.00</td><td>Dinner</td></tr>
 </table>
 </div>
@@ -46,22 +46,22 @@
   <dl>
    <dt>13.40</dt><dd>Einar Broch Johnsen, Jacopo Mauro and Ingrid Chieh Yu <em>A Model-Based Scalability Optimization Methodology for Microservices on the Cloud</em></dd>
    <dt>14.10</dt><dd>Quirino Zagarese and Laurence Withers <em>Microservices and Continuous Delivery: a Pragmatic Perspective of three Common Dilemmas</em></dd>
-   <dt>14.40</dt><dd>Marcelo França and Claudia Werner <em>Discovering and Comparing Microservices</em></dd>
+   <dt>14.40</dt><dd>Peter-Christian Quint and Nane Kratzke <em>Towards a Description of Elastic Cloud-native Applications for Transferable Multi-Cloud-Deployments</em></dd>
   </dl>
 
 - <a id="s3"></a>*Session 3*
 
   <ul><li><em>Session 3a: Support</em>
   <dl>
-   <dt>15.30</dt><dd>Immaculee Joselyne Munezero, Benjamin Kangwa and Joseph Balikuddenbe <em>A Framework to Modernize SME Application in Emerging Economies: Microservice Architecture Pattern Approach</em></dd>
-   <dt>16.00</dt><dd>Peter-Christian Quint and Nane Kratzke <em>Towards a Description of Elastic Cloud-native Applications for Transferable Multi-Cloud-Deployments</em></dd>
+   <dt>15.40</dt><dd>Immaculee Joselyne Munezero, Benjamin Kangwa and Joseph Balikuddenbe <em>A Framework to Modernize SME Application in Emerging Economies: Microservice Architecture Pattern Approach</em></dd>
+  
   </dl>    
   </li>
 
   <li><em>Session 3b: Applications</em>
   <dl>
-   <dt>16.20</dt><dd>Michail Kargakis <em>Migrating the OpenShift CI infrastructure to a microservice architecture</em></dd>
-   <dt>16.50</dt><dd>Jonas Malte Hinchely <em>Open Data Framework</em></dd>
+   <dt>16.10</dt><dd>Michail Kargakis <em>Migrating the OpenShift CI infrastructure to a microservice architecture</em></dd>
+   <dt>16.40</dt><dd>Jonas Malte Hinchely <em>Open Data Framework</em></dd>
    </dl>
   </li></ul>
   

@@ -455,3 +455,14 @@ pre code {
     display: flex;
     align-items: center;
 }
+
+.paper {
+  background-image: url(/assets/images/pdf.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 15px;
+  height: 21px;
+  display: inline-block;
+  margin-bottom: -4px;
+  margin-right: 5px;
+}

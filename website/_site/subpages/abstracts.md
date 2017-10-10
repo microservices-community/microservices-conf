@@ -4,7 +4,10 @@
 <table class="table table-hover">
 
 <tr><td class="text-muted col-xs-4">Eugenio Concepción, Pablo Gervás and Gonzalo Méndez </td>
-<td>A microservice-based architecture for story generation</td></tr>
+<td><a href="/papers/empty_paper.pdf">
+<span class="paper"></span>
+A microservice-based architecture for story generation
+</a></td></tr>
 
 <tr><td class="text-muted">Saverio Giallorenzo and Ivan Lanese</td>
 <td>Choreographies for Microservices</td></tr>

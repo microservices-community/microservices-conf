@@ -95,7 +95,7 @@ On choreographic programming and lossy communications
 </a></td></tr>
 
 <tr><td class="text-muted">Peter-Christian Quint and Nane Kratzke</td>
-<td><a href="/papers/empty_paper.pdf">
+<td><a href="/papers/Quint-Kratzke.pdf">
 <span class="paper"></span>
 Towards a Description of Elastic Cloud-native Applications for Transferable Multi-Cloud-Deployments
 </a></td></tr>

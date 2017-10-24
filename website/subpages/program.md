@@ -5,9 +5,9 @@
  <tr><td>9.15</td><td>Keynote: Steve Ross-Talbot</td></tr>
 <tr><td>10.00</td><td> Break</td></tr>
 <tr><td>10.30</td><td> <a href="#s1">Session 1</a></td></tr>
-<tr><td>12.10</td><td> Lunch</td></tr>
-<tr><td>13.40</td><td> <a href="#s2">Session 2</a></td></tr>
-<tr><td>15.00</td><td> Break</td></tr>
+<tr><td>11.50</td><td> Lunch</td></tr>
+<tr><td>13.30</td><td> <a href="#s2">Session 2</a></td></tr>
+<tr><td>15.10</td><td> Break</td></tr>
 <tr><td>15.40</td><td> Session <a href="#s3">3</a></td></tr>
 <tr><td>17.00</td><td>End of first day</td></tr>
 <tr><td>18.00</td><td>Dinner</td></tr>
@@ -38,15 +38,15 @@
    <dt>10.30</dt><dd>Florian Rademacher <em>Formalizing Domain-driven Microservice Design with UML's Profile Mechanism</em></dd>
    <dt>11.00</dt><dd>Saverio Giallorenzo and Ivan Lanese <em>Choreographies for Microservices</em></dd>
    <dt>11.30</dt><dd>Marco Peressotti <em>On choreographic programming and lossy communications</em></dd>
-   <dt>11.50</dt><dd>Balakrishna Subramoney <em>Soul of a Microservice</em></dd>
   </dl>
   
 - <a id="s2"></a>*Session 2: Support*
 
   <dl>
-   <dt>13.40</dt><dd>Einar Broch Johnsen, Jacopo Mauro and Ingrid Chieh Yu <em>A Model-Based Scalability Optimization Methodology for Microservices on the Cloud</em></dd>
-   <dt>14.10</dt><dd>Quirino Zagarese and Laurence Withers <em>Microservices and Continuous Delivery: a Pragmatic Perspective of three Common Dilemmas</em></dd>
-   <dt>14.40</dt><dd>Peter-Christian Quint and Nane Kratzke <em>Towards a Description of Elastic Cloud-native Applications for Transferable Multi-Cloud-Deployments</em></dd>
+   <dt>13.30</dt><dd>Balakrishna Subramoney <em>Soul of a Microservice</em></dd>
+   <dt>13.50</dt><dd>Einar Broch Johnsen, Jacopo Mauro and Ingrid Chieh Yu <em>A Model-Based Scalability Optimization Methodology for Microservices on the Cloud</em></dd>
+   <dt>14.20</dt><dd>Quirino Zagarese and Laurence Withers <em>Microservices and Continuous Delivery: a Pragmatic Perspective of three Common Dilemmas</em></dd>
+   <dt>14.50</dt><dd>Peter-Christian Quint and Nane Kratzke <em>Towards a Description of Elastic Cloud-native Applications for Transferable Multi-Cloud-Deployments</em></dd>
   </dl>
 
 - <a id="s3"></a>*Session 3*

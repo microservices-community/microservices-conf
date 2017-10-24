@@ -34,10 +34,10 @@ The use of microservices to implement cross process integration and data sharing
 </a></td></tr>
 
 <tr><td class="text-muted">Immaculee Joselyne Munezero, Benjamin Kangwa and Joseph Balikuddenbe</td>
-<td><!--<a href="/papers/empty_paper.pdf">
-<span class="paper"></span>-->
+<td><a href="/papers/Joselyne-Kangwa-Balikuddenbe.pdf">
+<span class="paper"></span>
 A Framework to Modernize SME Application in Emerging Economies: Microservice Architecture Pattern Approach
-<!--</a>--></td></tr>
+</a></td></tr>
 
 <tr><td class="text-muted">Florian Rademacher</td>
 <td><a href="/papers/Rademacher.pdf">

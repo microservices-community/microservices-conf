@@ -4,11 +4,21 @@ layout: page
 feature_image: "/assets/images/skal_odense.jpg"
 ---
 
-<h2><span class="label label-info">Updates</span></h2>
+<div class="alert alert-info" role="alert"> <strong>Heads up!</strong> 
 
- - Please use [**this form**](http://tinyurl.com/ms-panel-topics) to submit topics and question for the October, 26th The Future of Microservices panel.
- 
- - Please use [**this form**](https://goo.gl/forms/BAv09swRBeQGWALO2) to sign up for the October, 25th dinner.
+  <p>Please use 
+  <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> 
+  <a href="http://tinyurl.com/ms-panel-topics">this form</a> 
+  <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span> 
+  to submit topics and question for the October, 26th The Future of Microservices panel.</p>
+
+  <p>Please use 
+    <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> 
+    <a href="https://goo.gl/forms/BAv09swRBeQGWALO2">this form</a> 
+    <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span> 
+    to sign up for the October, 25th dinner.</p>
+</div>
+
 
 <ul class="nav nav-tabs nav-justified">
   <li role="presentation" class="active">

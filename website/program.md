@@ -3,6 +3,13 @@ title: Program
 layout: page
 feature_image: "/assets/images/skal_odense.jpg"
 ---
+
+<h2><span class="label label-info">Updates</span></h2>
+
+ - Please use [**this form**](http://tinyurl.com/ms-panel-topics) to submit topics and question for the October, 26th The Future of Microservices panel.
+ 
+ - Please use [**this form**](https://goo.gl/forms/BAv09swRBeQGWALO2) to sign up for the October, 25th dinner.
+
 <ul class="nav nav-tabs nav-justified">
   <li role="presentation" class="active">
     <a href="#program">Program</a></li>

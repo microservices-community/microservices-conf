@@ -55,7 +55,7 @@
 <strong>Social Media</strong>
 </div>
 <div style="width:99%;" >
-<a class="twitter-timeline" href="https://twitter.com/c_microservices">Tweets on Microservices 2017</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="600" href="https://twitter.com/c_microservices">Tweets on Microservices 2017</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>
 

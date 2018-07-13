@@ -1,18 +1,11 @@
 FROM alpine as Build
 
+WORKDIR /
+
 RUN apk update && \
-		apk add git && \
-		mkdir -p /var/lib/leonardo/www
-RUN git clone https://github.com/fmontesi/microservices-conf.git /var/lib/leonardo/www
-RUN rm -rf /var/lib/leonardo/www/docker
+		apk add git
+RUN git clone --depth=1 https://github.com/fmontesi/microservices-conf.git /www
 
 # Start from scratch, copy the installer, install, remove the installer.
-FROM jolielang/jolie
-WORKDIR /
-RUN mkdir -p /var/lib/leonardo/www
-COPY --from=Build /var/lib/leonardo/www /var/lib/leonardo/www
-COPY leonardo /
-
-WORKDIR /leonardo
-
-CMD ["jolie","leonardo.ol"]
+FROM jolielang/leonardo
+COPY --from=Build /www/website/_site /var/lib/leonardo/www

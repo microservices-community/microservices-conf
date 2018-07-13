@@ -1,31 +1,47 @@
 ---
-layout: home
-title: Microservices 2017
-feature_image: "assets/images/andersen_museum.jpg"
-image: "assets/images/andersen_museum.jpg"
-excerpt: "The first conference on microservices is a forum for the discussion of all aspects of designing and programming microservice architectures. Both theoretical and experimental contributions are welcome, on topics ranging from formal frameworks to experience reports."
+layout: page
+title: Microservices Conferences
+feature_image: "/assets/images/site-header.png"
+image: "/assets/images/site-header.png"
+excerpt: "The Microservices Conference is a joint forum for scientists and practitioners to present and discuss the most recent innovations, trends, experiences, and concerns in the field of microservices."
 ---
 
-<ul class="nav nav-tabs nav-justified">
-  <li role="presentation" class="active"><a href="#about">About</a></li>
-  <li role="presentation"><a href="#cfp">Call for Papers</a></li>
-</ul>
+The Microservices Conference is a joint forum for scientists and practitioners to present and discuss the most recent innovations, trends, experiences, and concerns in the field of microservices. 
 
-<div class="tab-content">
-<div role="tabpanel" class="tab-pane active" id="about">
-  
-  {% include_relative include_md.html file="subpages/about.md" %}
-
+## Community
+<p>
+<div class="row">
+<div class="col-xs-3 col-md-2 vcenter text-center">
+    <img style="margin-left: 15px;" src="/assets/images/Badge_MC_Supported_black.png" alt="">
 </div>
-
-<div role="tabpanel" class="tab-pane" id="cfp">
-
-  {% include_relative include_md.html file="subpages/call_for_papers.md" %}
-
+<div markdown="1" style="margin-right:-5px;" class="col-xs-9 col-md-10 vcenter">
+The Microservices Conference is supported by the [Microservices Community](https://microservices.sdu.dk), an international association interested in the software paradigm of microservices, with the overarching aims of sharing of knowledge and fostering of collaborations on microservices.
 </div>
-
 </div>
+</p>
 
-<script>
-$('.nav-tabs li a').click(function (e){e.preventDefault();$(this).tab('show');})
-</script>
+# Upcoming Editions
+
+
+# Past Editions
+
+<table class="table">
+	<thead>
+		<tr>
+			<th style="width:6em;"><strong>Edition</strong></th>
+			<th><strong>Location and Dates</strong></th>
+			<th><strong>Chairs</strong></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="2017"><strong>1st &middot; 2017</strong></a></td>
+			<td>Southern Denmark University, <strong>Odense</strong>, Denmark 
+				<p><strong>October 25-26, 2017</strong></p>
+			</td>
+			<td><strong>Fabrizio Montesi</strong>, Southern Denmark University<br>
+					<strong>Luís Cruz-Filipe</strong>, Southern Denmark University
+			</td>
+		</tr>
+	</tbody>
+</table>

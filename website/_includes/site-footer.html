@@ -1,18 +1,22 @@
-<footer class="footer">
-  
-  <div class="mycontainer">
-    {% include nav-footer.html %}
-    
-    <div class="copyright  typeset">
-      <small class="small">&copy; {{ site.title }}</small>
-      |
-      <small class="small">Penrose hexagon CC-BY-SA-3.0 <a href="https://en.wikipedia.org/wiki/User:Trilink">Trilink</a></small>
-      |
-      <small class="small">Fresque au musée Andersen & Skål Odense &copy; <a href="https://www.flickr.com/photos/thibautbernardin/">Thibaut Bernardin</a></small>
-      |
-      <small class="small">Ugly ducklings &copy; <a href="https://www.flickr.com/photos/134741349@N05/">Mads Fiil Johnsen</a></small>
-      |
-      <small class="small">Dater &copy; <a href="https://www.flickr.com/photos/prinsone/">Prinsone</a></small>
-    </div>
+<div class="row footer">
+  <div class="container">
+  <div class="row">
+  {% capture contact-footer %}{% include contact-footer.md %}{% endcapture %}
+  {{ contact-footer | markdownify }}
   </div>
-</footer>
+  <div style="padding-bottom:10px;" class="row">
+  <div class="col-xs-12 small text-center">
+    <div class="copyright typeset">
+      <small>&copy; {{ site.title }}
+      |
+      <a href="https://www.sdu.dk/en/om_sdu/om_dette_websted/databeskyttelse">Data protection at SDU</a>
+      |
+      <a href="https://www.sdu.dk/da/om_sdu/om_dette_websted/databeskyttelse">Databeskyttelse på SDU</a>
+      |
+      Penrose hexagon CC-BY-SA-3.0 <a href="https://en.wikipedia.org/wiki/User:Trilink">Trilink</a>
+    </small>
+  </div>
+  </div>
+</div>
+</div>
+</div>

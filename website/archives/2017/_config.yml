@@ -87,7 +87,7 @@ header_right: |
 
 # 8. Site navigation
 navigation_header:
-  Home: /2017
+  Home: /2017/index.html
   Attending: /2017/attending/
   Program: /2017/program/
   Committees: /2017/committees/

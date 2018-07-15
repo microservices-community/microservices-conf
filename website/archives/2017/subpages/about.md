@@ -4,7 +4,7 @@ Microservices 2017 has ended, but a community was born. See you in the [Microser
 
 Here is a picture of the dedicated people who made it to the very end.
 
-![Closing]({{ "/2017/assets/images/final-picture.jpg" | absolute_url }})
+<img src="/2017/assets/images/final-picture.jpg" alt="Closing Picture">
 
 ---
 

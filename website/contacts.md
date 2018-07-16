@@ -9,4 +9,4 @@ excerpt: "The Microservices conferences are joint forums of practitioners and ac
 The pages of the {{ site.title }} are maintained by the [Microservices Community](https://microservices.sdu.dk).
 
 Please address general requests and technical questions to 
-<kbd>microservices@sdu.dk</kbd>
+<kbd>microservices@lists.sdu.dk</kbd>

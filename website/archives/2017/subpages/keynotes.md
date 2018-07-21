@@ -7,7 +7,7 @@ Microservices are usually considered the be technology agnostic, thus they are a
 ### Speaker Bio
 <div>
 <div class="pull-left col-xs-3 col-sm-3 col-md-2 col-lg-2">
-<img class="img-thumbnail" src="/assets/images/speakers/claudio.jpg" alt="Claudio Guidi">  
+<img class="img-thumbnail" src="/2017/assets/images/speakers/claudio.jpg" alt="Claudio Guidi">  
 </div>
 Dr. Claudio Guidi is the executive chairman at italianaSoftware s.r.l. He is the co-creator of the Jolie programming language. He took his Ph.D at the University of Bologna with the thesis "Formalizing Languages for Service Oriented Computing". His research activity is mainly focused on investigating SOA principles and microservices architectures. He is one of the founders of italianaSoftware where Jolie is exploited as a strategic technology for building microservices solutions for industry.
 </div>
@@ -25,7 +25,7 @@ In this talk, we will discuss both data-centric and interaction-centric approach
 ### Speaker Bio
 <div>
 <div class="pull-left col-xs-3 col-sm-3 col-md-2 col-lg-2">
-<img class="img-thumbnail" src="/assets/images/speakers/steve.jpeg" alt="Steve Ross-Talbot">  
+<img class="img-thumbnail" src="/2017/assets/images/speakers/steve.jpeg" alt="Steve Ross-Talbot">  
 </div>
 
 Prof. Steve Ross-Talbot has been in computer science since 1974 when he first started programming in his O-Level year on punched cards and paper tape in BASIC and CECIL.

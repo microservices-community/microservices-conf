@@ -66,10 +66,10 @@
 <ul class="list-group">
 
 <li class="list-group-item">
-  <img class="img-responsive center-block" src="/assets/images/sdu.png" alt="">
+  <img class="img-responsive center-block" src="/2017/assets/images/sdu.png" alt="">
 </li>
 <li class="list-group-item">
-  <img class="img-responsive center-block" src="/assets/images/unibo.png" alt="">
+  <img class="img-responsive center-block" src="/2017/assets/images/unibo.png" alt="">
 </li>
 </ul>
 </div>

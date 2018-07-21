@@ -35,7 +35,7 @@ The Microservices Conference is supported by the [Microservices Community](https
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="2017"><strong>1st &middot; 2017</strong></a></td>
+			<td><a href="2017/index.html"><strong>1st &middot; 2017</strong></a></td>
 			<td>Southern Denmark University, <strong>Odense</strong>, Denmark 
 				<p><strong>October 25-26, 2017</strong></p>
 			</td>

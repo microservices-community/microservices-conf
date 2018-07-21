@@ -4,8 +4,11 @@ WORKDIR /
 
 RUN apk update && \
 		apk add git
-RUN git clone --depth=1 https://github.com/fmontesi/microservices-conf.git /www
+RUN git clone --depth=1 https://github.com/fmontesi/microservices-conf.git /git
 
 # Start from scratch, copy the installer, install, remove the installer.
 FROM jolielang/leonardo
-COPY --from=Build /www/website/_site /var/lib/leonardo/www
+
+ENV LEONARDO_WWW /web
+
+COPY --from=Build /git/website/_site $LEONARDO_WWW

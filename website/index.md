@@ -6,7 +6,7 @@ image: "/assets/images/site-header.png"
 excerpt: "The Microservices Conference is a joint forum for scientists and practitioners to present and discuss the most recent innovations, trends, experiences, and concerns in the field of microservices."
 ---
 
-The Microservices Conference is a joint forum for scientists and practitioners to present and discuss the most recent innovations, trends, experiences, and concerns in the field of microservices. 
+The International Conference on Microservices (shortened Microservices) is a joint forum for scientists and practitioners to present and discuss the most recent innovations, trends, experiences, and concerns in the field of microservices. 
 
 ## Community
 <p>
@@ -15,7 +15,7 @@ The Microservices Conference is a joint forum for scientists and practitioners t
     <img style="margin-left: 15px;" src="/assets/images/Badge_MC_Supported_black.png" alt="">
 </div>
 <div markdown="1" style="margin-right:-5px;" class="col-xs-9 col-md-10 vcenter">
-The Microservices Conference is supported by the [Microservices Community](https://microservices.sdu.dk), an international association interested in the software paradigm of microservices, with the overarching aims of sharing of knowledge and fostering of collaborations on microservices.
+The Microservices Conference is organised in collaboration with the [Microservices Community](https://microservices.sdu.dk), an international association interested in the software paradigm of microservices, with the overarching aims of sharing of knowledge and fostering of collaborations on microservices.
 </div>
 </div>
 </p>
@@ -36,11 +36,11 @@ The Microservices Conference is supported by the [Microservices Community](https
 	<tbody>
 		<tr>
 			<td><a href="2017/index.html"><strong>1st &middot; 2017</strong></a></td>
-			<td>Southern Denmark University, <strong>Odense</strong>, Denmark 
+			<td>University of Southern Denmark, <strong>Odense</strong>, Denmark 
 				<p><strong>October 25-26, 2017</strong></p>
 			</td>
-			<td><strong>Fabrizio Montesi</strong>, Southern Denmark University<br>
-					<strong>Luís Cruz-Filipe</strong>, Southern Denmark University
+			<td><strong>Fabrizio Montesi</strong>, University of Southern Denmark<br>
+					<strong>Luís Cruz-Filipe</strong>, University of Southern Denmark
 			</td>
 		</tr>
 	</tbody>

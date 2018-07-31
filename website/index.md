@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microservices Conferences
+title: Microservices Conference
 feature_image: "/assets/images/site-header.png"
 image: "/assets/images/site-header.png"
 excerpt: "The Microservices Conference is a joint forum for scientists and practitioners to present and discuss the most recent innovations, trends, experiences, and concerns in the field of microservices."

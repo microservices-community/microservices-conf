@@ -22,6 +22,30 @@ The Microservices Conference is organised in collaboration with the [Microservic
 
 # Upcoming Editions
 
+<table class="table">
+	<thead>
+		<tr>
+			<th style="width:6em;"><strong>Edition</strong></th>
+			<th><strong>Location and Dates</strong></th>
+			<th><strong>Chairs</strong></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="https://microservices.fh-dortmund.de/"><strong>2nd &middot; 2019</strong></a>
+			</td>
+			<td>University of Applied Sciences and Arts Dortmund <strong>Dortmund</strong>, Germany 
+				<p><strong>February 19-21, 2019</strong></p>
+			</td>
+			<td>
+				<strong>Saverio Giallorenzo</strong>, University of Southern Denmark<br>
+				<strong>Marco Peressotti</strong>, University of Southern Denmark<br>
+				<strong>Florian Rademacher</strong>, University of Applied Sciences and Arts Dortmund<br>
+				<strong>Sabine Sachweh</strong>, University of Applied Sciences and Arts Dortmund
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 # Past Editions
 

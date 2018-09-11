@@ -32,7 +32,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="https://microservices.fh-dortmund.de/"><strong>2nd &middot; 2019</strong></a>
+			<td><a href="/2019/index.html"><strong>2nd &middot; 2019</strong></a>
 			</td>
 			<td>University of Applied Sciences and Arts Dortmund <strong>Dortmund</strong>, Germany 
 				<p><strong>February 19-21, 2019</strong></p>

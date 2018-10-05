@@ -25,7 +25,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
 <table class="table">
 	<thead>
 		<tr>
-			<th style="width:6em;"><strong>Edition</strong></th>
+			<th style="width:7em;"><strong>Edition</strong></th>
 			<th><strong>Location and Dates</strong></th>
 			<th><strong>Chairs</strong></th>
 		</tr>
@@ -52,7 +52,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
 <table class="table">
 	<thead>
 		<tr>
-			<th style="width:6em;"><strong>Edition</strong></th>
+			<th style="width:7em;"><strong>Edition</strong></th>
 			<th><strong>Location and Dates</strong></th>
 			<th><strong>Chairs</strong></th>
 		</tr>

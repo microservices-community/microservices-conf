@@ -6,6 +6,7 @@ exclude:
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - sub-pages
+- Makefile
 - editions
 
 # 2. Installed Gems

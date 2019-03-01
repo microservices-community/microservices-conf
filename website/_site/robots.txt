@@ -1,1 +1,0 @@
-Sitemap: http://conf-micro.services/sitemap.xml

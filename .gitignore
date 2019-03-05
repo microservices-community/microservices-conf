@@ -1,2 +1,5 @@
-website/.sass-cache
-website/Gemfile.lock
+*.sass-cache/
+*Gemfile.lock
+*_site/
+# edition subsites
+# website/2017/

@@ -22,6 +22,7 @@ $(editions):
 
 install: 
 	$(BUNDLE) install
+	git submodules update --recursive --remote
 
 update: 
 	$(BUNDLE) update

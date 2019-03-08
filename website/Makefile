@@ -8,9 +8,8 @@ editions := $(patsubst ./editions/%/,%,$(editions_paths))
 
 .PHONY: all all-docker modules init-modules install update clean build serve editions $(editions)
 
-all: modules common
-all-docker: init-modules common
-common: install editions build
+all-docker: init-modules all
+all: modules install editions build
 
 editions: $(editions)
 
@@ -24,7 +23,6 @@ $(editions):
 
 init-modules:
 	git submodule update --init --recursive
-	modules
 
 modules:
 	git submodule update --recursive --remote

@@ -24,6 +24,7 @@ $(editions):
 
 init-modules:
 	git submodule update --init --recursive
+	modules
 
 modules:
 	git submodule update --recursive --remote

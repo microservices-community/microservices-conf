@@ -10,9 +10,10 @@ ruby-dev build-base ruby-webrick ruby-nokogiri ruby-json \
 libxml2-dev libxslt-dev libffi-dev
 
 FROM Source as Build
+
 RUN git clone --depth=1 --recurse-submodules --shallow-submodules https://github.com/fmontesi/microservices-conf.git /git
 WORKDIR /git/website
-RUN make all
+RUN make all-docker
 
 FROM jolielang/leonardo
 ENV LEONARDO_WWW /web

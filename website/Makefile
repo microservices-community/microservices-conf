@@ -6,9 +6,10 @@ JEKYLL := $(BUNDLE) exec jekyll
 editions_paths := $(sort $(dir $(wildcard ./editions/*/)))
 editions := $(patsubst ./editions/%/,%,$(editions_paths))
 
-.PHONY: all install update clean build serve editions $(editions)
+.PHONY: all all-docker modules install update clean build serve editions $(editions)
 
-all: install editions build
+all: modules all-docker
+all-docker: install editions build
 
 editions: $(editions)
 
@@ -20,9 +21,11 @@ $(editions):
 	mv ./editions/$@/_site ./$@
 	@echo END $@
 
+modules:
+	git submodule update --recursive --remote
+
 install: 
 	$(BUNDLE) install
-	git submodule update --recursive --remote
 
 update: 
 	$(BUNDLE) update

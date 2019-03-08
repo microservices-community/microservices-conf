@@ -8,7 +8,7 @@ editions := $(patsubst ./editions/%/,%,$(editions_paths))
 
 .PHONY: all install update clean build serve editions $(editions)
 
-all: editions install build
+all: install editions build
 
 editions: $(editions)
 

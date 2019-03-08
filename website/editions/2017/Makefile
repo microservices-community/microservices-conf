@@ -16,7 +16,7 @@ clean:
 	$(JEKYLL) clean
 
 build: 
-	$(JEKYLL) build
+	$(JEKYLL) build --base="${base}"
 
-serve: 
+serve:
 	$(JEKYLL) serve

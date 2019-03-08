@@ -1,3 +1,5 @@
+encoding: utf-8
+
 # 1. Files excluded from Jekyll builds
 exclude:
 - README.md

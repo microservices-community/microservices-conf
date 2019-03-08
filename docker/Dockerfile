@@ -1,14 +1,18 @@
-FROM alpine as Build
+FROM alpine as Source
 
 WORKDIR /
 
 RUN apk update && \
-		apk add git
-RUN git clone --depth=1 https://github.com/fmontesi/microservices-conf.git /git
+apk upgrade && \
+apk add git make curl wget bash ruby ruby-bundler \
+ruby ruby-bigdecimal ruby-bundler ca-certificates \
+ruby-dev build-base ruby-webrick ruby-nokogiri ruby-json \
+libxml2-dev libxslt-dev libffi-dev
+RUN git clone --depth=1 --recurse-submodules --shallow-submodules https://github.com/fmontesi/microservices-conf.git /git
+WORKDIR /git/website
+RUN make all
+RUN bundle exec jekyll build
 
-# Start from scratch, copy the installer, install, remove the installer.
 FROM jolielang/leonardo
-
 ENV LEONARDO_WWW /web
-
-COPY --from=Build /git/website/_site $LEONARDO_WWW
+COPY --from=Source /git/website/_site $LEONARDO_WWW

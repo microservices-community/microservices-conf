@@ -2,7 +2,6 @@ FROM alpine as Source
 
 WORKDIR /
 
-LABEL version=""
 RUN apk update && \
 apk upgrade && \
 apk add git make curl wget bash ruby ruby-bundler \

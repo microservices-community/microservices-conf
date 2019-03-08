@@ -12,8 +12,7 @@ RUN git clone --depth=1 --recurse-submodules --shallow-submodules https://github
 WORKDIR /git/website
 RUN make all
 RUN bundle exec jekyll build
-RUN mv /srv/jekyll/_site /site
 
 FROM jolielang/leonardo
 ENV LEONARDO_WWW /web
-COPY --from=Source /site $LEONARDO_WWW
+COPY --from=Source /git/website/_site $LEONARDO_WWW

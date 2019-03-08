@@ -14,7 +14,7 @@ editions: $(editions)
 
 $(editions): 
 	@echo BEGIN $@
-	$(MAKE) base="$@" -C ./editions/$@/ all
+	$(MAKE) -C ./editions/$@/ all
 	rm -rf ./$@
 	mkdir -p ./_site/$@
 	mv ./editions/$@/_site ./$@

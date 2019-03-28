@@ -11,7 +11,7 @@ libxml2-dev libxslt-dev libffi-dev
 
 FROM Source as Build
 
-RUN git clone --depth=1 https://github.com/fmontesi/microservices-conf.git /git
+RUN git clone --depth=1 https://github.com/microservices-community/microservices-conf.git /git
 WORKDIR /git/website
 RUN make all-docker
 

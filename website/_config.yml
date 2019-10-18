@@ -18,8 +18,6 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
-- jekyll-feed
-- jemoji
 
 # 4. Jekyll settings
 sass:

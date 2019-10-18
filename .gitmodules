@@ -4,6 +4,3 @@
 [submodule "website/editions/2019"]
 	path = website/editions/2019
 	url = https://github.com/microservices-community/microservices-2019
-[submodule "website/editions/2020"]
-	path = website/editions/2020
-	url = https://github.com/microservices-community/microservices-2020.git

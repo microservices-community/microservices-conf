@@ -20,7 +20,6 @@ The Microservices Conference is organised in collaboration with the [Microservic
 </div>
 </p>
 
-{%- comment -%}
 # Upcoming Editions
 
 <table class="table">
@@ -33,21 +32,19 @@ The Microservices Conference is organised in collaboration with the [Microservic
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="/2019/index.html"><strong>2nd &middot; 2019</strong></a>
+			<td><a href="/2020/index.html"><strong>3rd &middot; 2020</strong></a>
 			</td>
-			<td>University of Applied Sciences and Arts Dortmund <strong>Dortmund</strong>, Germany 
-				<p><strong>February 19-21, 2019</strong></p>
+			<td>Università di Bologna, <strong>Bologna</strong>, Italy 
+				<p><strong>June, 2020</strong></p>
 			</td>
 			<td>
-				<strong>Saverio Giallorenzo</strong>, University of Southern Denmark<br>
-				<strong>Marco Peressotti</strong>, University of Southern Denmark<br>
-				<strong>Florian Rademacher</strong>, University of Applied Sciences and Arts Dortmund<br>
-				<strong>Sabine Sachweh</strong>, University of Applied Sciences and Arts Dortmund
+				<strong>Marco Prandini</strong>, Università di Bologna<br>
+				<strong>Gianluigi Zavattaro</strong>, Università di Bologna<br>
+				<strong>Olaf Zimmerman</strong>, University of Applied Sciences of Eastern Switzerland (CH)<br>
 			</td>
 		</tr>
 	</tbody>
 </table>
-{%- endcomment -%}
 
 # Past Editions
 
@@ -63,7 +60,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
     <tr>
       <td><a href="/2019/index.html"><strong>2nd &middot; 2019</strong></a>
       </td>
-      <td>University of Applied Sciences and Arts Dortmund <strong>Dortmund</strong>, Germany 
+      <td>University of Applied Sciences and Arts Dortmund, <strong>Dortmund</strong>, Germany 
         <p><strong>February 19-21, 2019</strong></p>
       </td>
       <td>

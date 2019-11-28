@@ -6,7 +6,7 @@ JEKYLL := $(BUNDLE) exec jekyll
 editions_paths := $(sort $(dir $(wildcard ./editions/*/)))
 editions := $(patsubst ./editions/%/,%,$(editions_paths))
 
-.PHONY: all all-docker modules init-modules install update clean build serve editions $(editions)
+.PHONY: all all-docker modules init-modules install update clean build serve clean editions $(editions)
 
 all-docker: init-modules all
 all: modules install editions build
@@ -41,3 +41,7 @@ build:
 
 serve: 
 	$(JEKYLL) serve
+
+clean:
+	rm -rf $(patsubst %,./%/,$(editions))
+	#$(JEKYLL) clean

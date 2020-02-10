@@ -35,7 +35,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
 			<td><a href="/2020/index.html"><strong>3rd &middot; 2020</strong></a>
 			</td>
 			<td>Università di Bologna, <strong>Bologna</strong>, Italy 
-				<p><strong>September, 2020</strong></p>
+				<p><strong>September 8-10, 2020</strong></p>
 			</td>
 			<td>
 				<strong>Marco Prandini</strong>, Università di Bologna<br>

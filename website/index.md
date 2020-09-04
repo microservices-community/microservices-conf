@@ -15,7 +15,7 @@ The International Conference on Microservices (shortened Microservices) is a joi
     <img style="margin-left: 15px;" src="/assets/images/Badge_MC_Supported_black.png" alt="">
 </div>
 <div markdown="1" style="margin-right:-5px;" class="col-xs-9 col-md-10 vcenter">
-The Microservices Conference is organised in collaboration with the [Microservices Community](https://microservices.sdu.dk), an international association interested in the software paradigm of microservices, with the overarching aims of sharing of knowledge and fostering of collaborations on microservices.
+The Microservices Conference is organised in collaboration with the [Microservices Community](https://microservices.sdu.dk), an international association interested in the software paradigm of microservices, with the overarching aims of sharing of knowledge and fostering of collaborations on microservices. The Microservices Conference and all its affiliated events follow the [Code of Conduct](https://www.microservices.community/events/coc/) for events of the Microservices Community and fully endorse the values and culture of equality, openness, and respect of the Microservices Community.
 </div>
 </div>
 </p>

@@ -20,6 +20,8 @@ The Microservices Conference is organised in collaboration with the [Microservic
 </div>
 </p>
 
+{%- comment -%}
+
 # Upcoming Editions
 
 <table class="table">
@@ -35,7 +37,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
 			<td><a href="/2020/index.html"><strong>3rd &middot; 2020</strong></a>
 			</td>
 			<td>Università di Bologna, <strong>Bologna</strong>, Italy 
-				<p><strong>September, 2020</strong></p>
+				<p><strong>September 8-10, 2020</strong></p>
 			</td>
 			<td>
 				<strong>Marco Prandini</strong>, Università di Bologna<br>
@@ -48,6 +50,8 @@ The Microservices Conference is organised in collaboration with the [Microservic
 
 # Past Editions
 
+{%- endcomment -%}
+
 <table class="table">
 	<thead>
 		<tr>
@@ -57,6 +61,18 @@ The Microservices Conference is organised in collaboration with the [Microservic
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td><a href="/2020/index.html"><strong>3rd &middot; 2020</strong></a>
+			</td>
+			<td>Università di Bologna, <strong>Bologna</strong>, Italy 
+				<p><strong>September 8-10, 2020</strong></p>
+			</td>
+			<td>
+				<strong>Marco Prandini</strong>, Università di Bologna<br>
+				<strong>Gianluigi Zavattaro</strong>, Università di Bologna<br>
+				<strong>Olaf Zimmerman</strong>, University of Applied Sciences of Eastern Switzerland (CH)<br>
+			</td>
+		</tr>
     <tr>
       <td><a href="/2019/index.html"><strong>2nd &middot; 2019</strong></a>
       </td>

@@ -7,3 +7,6 @@
 [submodule "website/editions/2020"]
 	path = website/editions/2020
 	url = https://github.com/microservices-community/microservices-2020.git
+[submodule "website/editions/2022"]
+	path = website/editions/2022
+	url = https://github.com/microservices-community/microservices-2022.git

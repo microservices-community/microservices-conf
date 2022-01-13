@@ -20,8 +20,6 @@ The Microservices Conference is organised in collaboration with the [Microservic
 </div>
 </p>
 
-{%- comment -%}
-
 # Upcoming Editions
 
 <table class="table">
@@ -34,23 +32,22 @@ The Microservices Conference is organised in collaboration with the [Microservic
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="/2020/index.html"><strong>3rd &middot; 2020</strong></a>
+			<td><a href="/2022/index.html"><strong>4th &middot; 2022</strong></a>
 			</td>
-			<td>Università di Bologna, <strong>Bologna</strong>, Italy 
-				<p><strong>September 8-10, 2020</strong></p>
+			<td>MHS Paris Nord, <strong>Paris</strong>, France 
+				<p><strong>May 10-12, 2022</strong></p>
 			</td>
 			<td>
-				<strong>Marco Prandini</strong>, Università di Bologna<br>
-				<strong>Gianluigi Zavattaro</strong>, Università di Bologna<br>
-				<strong>Olaf Zimmerman</strong>, University of Applied Sciences of Eastern Switzerland (CH)<br>
+				<strong>Giulio Manzonetto</strong>		University Sorbonne Paris Nord (FR)<br>
+				<strong>Gokila Dorai</strong>				Augusta University (US)<br>
+				<strong>Dimka Karastoyanova</strong>	University of Groningen (NL)<br>
+				<strong>Aomar Osmani</strong>				University Sorbonne Paris Nord (FR)<br>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 # Past Editions
-
-{%- endcomment -%}
 
 <table class="table">
 	<thead>

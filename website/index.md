@@ -22,6 +22,28 @@ The Microservices Conference is organised in collaboration with the [Microservic
 
 # Upcoming Editions
 
+
+<table class="table">
+	<thead>
+		<tr>
+			<th style="width:7em;"><strong>Edition</strong></th>
+			<th><strong>Location and Dates</strong></th>
+			<th><strong>Chairs</strong></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>2023</td>
+			<td><a href="/files/International_Conference_on_Microservices.docx">We are seeking proposals for hosting and organizing the 2023 edition.</a></td>
+			<td>
+				TBD
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+# Past Editions
+
 <table class="table">
 	<thead>
 		<tr>
@@ -44,20 +66,6 @@ The Microservices Conference is organised in collaboration with the [Microservic
 				<strong>Aomar Osmani</strong>				University Sorbonne Paris Nord (FR)<br>
 			</td>
 		</tr>
-	</tbody>
-</table>
-
-# Past Editions
-
-<table class="table">
-	<thead>
-		<tr>
-			<th style="width:7em;"><strong>Edition</strong></th>
-			<th><strong>Location and Dates</strong></th>
-			<th><strong>Chairs</strong></th>
-		</tr>
-	</thead>
-	<tbody>
 		<tr>
 			<td><a href="/2020/index.html"><strong>3rd &middot; 2020</strong></a>
 			</td>

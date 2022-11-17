@@ -42,6 +42,33 @@ The Microservices Conference is organised in collaboration with the [Microservic
 	</tbody>
 </table>
 
+# Conference Steering Committee
+
+<table class="table">
+	<tbody>
+		<tr>
+			<td><strong>Name</strong></td>
+			<td><strong>Affiliation</strong></td>
+			<td><strong>Contact</strong></td>
+		</tr>
+		<tr>
+			<td>Fabrizio Montesi</td>
+			<td>University of Southern Denmark (DK)</td>
+			<td>fmontesi <strong>at</strong> imada <strong>dot</strong> sdu <strong>dot</strong> dk</td>
+		</tr>
+		<tr>
+			<td>Giulio Manzonetto</td>
+			<td>University Sorbonne Paris Nord (FR)</td>
+			<td>gmanzone <strong>at</strong> gmail <strong>dot</strong> com</td>
+		</tr>
+		<tr>
+			<td>Sabine Sachweh</td>
+			<td>University of Applied Sciences and Arts Dortmund (DE)</td>
+			<td>sabine <strong>dot</strong> sachweh <strong>at</strong> fh-dortmund <strong>dot</strong> de</td>
+		</tr>
+	</tbody>
+</table>
+
 # Past Editions
 
 <table class="table">

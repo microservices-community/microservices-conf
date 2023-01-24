@@ -1,15 +1,4 @@
-FROM alpine as source
-
-WORKDIR /
-
-RUN apk update && \
-apk upgrade && \
-apk add git make curl wget bash ruby ruby-bundler \
-ruby ruby-bigdecimal ruby-bundler ca-certificates \
-ruby-dev build-base ruby-webrick ruby-nokogiri ruby-json \
-libxml2-dev libxslt-dev libffi-dev
-
-FROM source as build
+FROM ruby as build
 
 RUN git clone --depth=1 https://github.com/microservices-community/microservices-conf.git /git
 WORKDIR /git/website

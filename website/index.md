@@ -6,7 +6,7 @@ image: "/assets/images/site-header.png"
 excerpt: "The Microservices Conference is a joint forum for scientists and practitioners to present and discuss the most recent innovations, trends, experiences, and concerns in the field of microservices."
 ---
 
-The International Conference on Microservices (shortened Microservices) is a joint forum for scientists and practitioners to present and discuss the most recent innovations, trends, experiences, and concerns in the field of microservices. 
+The International Conference on Microservices (shortened Microservices) is a joint forum for scientists and practitioners to present and discuss the most recent innovations, trends, experiences, and concerns in the field of microservices.
 
 ## Community
 <p>
@@ -59,7 +59,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
 		<tr>
 			<td>Giulio Manzonetto</td>
 			<td>University Sorbonne Paris Nord (FR)</td>
-			<td>gmanzone <strong>at</strong> gmail <strong>dot</strong> com</td>
+			<td>manzonetto <strong>at</strong> univ-paris13 <strong>dot</strong> fr</td>
 		</tr>
 		<tr>
 			<td>Sabine Sachweh</td>
@@ -83,7 +83,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
 		<tr>
 			<td><a href="/2022/index.html"><strong>4th &middot; 2022</strong></a>
 			</td>
-			<td>MHS Paris Nord, <strong>Paris</strong>, France 
+			<td>MHS Paris Nord, <strong>Paris</strong>, France
 				<p><strong>May 10-12, 2022</strong></p>
 			</td>
 			<td>
@@ -96,7 +96,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
 		<tr>
 			<td><a href="/2020/index.html"><strong>3rd &middot; 2020</strong></a>
 			</td>
-			<td>Università di Bologna, <strong>Bologna</strong>, Italy 
+			<td>Università di Bologna, <strong>Bologna</strong>, Italy
 				<p><strong>September 8-10, 2020</strong></p>
 			</td>
 			<td>
@@ -108,7 +108,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
     <tr>
       <td><a href="/2019/index.html"><strong>2nd &middot; 2019</strong></a>
       </td>
-      <td>University of Applied Sciences and Arts Dortmund, <strong>Dortmund</strong>, Germany 
+      <td>University of Applied Sciences and Arts Dortmund, <strong>Dortmund</strong>, Germany
         <p><strong>February 19-21, 2019</strong></p>
       </td>
       <td>
@@ -120,7 +120,7 @@ The Microservices Conference is organised in collaboration with the [Microservic
     </tr>
 		<tr>
 			<td><a href="2017/index.html"><strong>1st &middot; 2017</strong></a></td>
-			<td>University of Southern Denmark, <strong>Odense</strong>, Denmark 
+			<td>University of Southern Denmark, <strong>Odense</strong>, Denmark
 				<p><strong>October 25-26, 2017</strong></p>
 			</td>
 			<td><strong>Fabrizio Montesi</strong>, University of Southern Denmark<br>

@@ -33,10 +33,10 @@ The Microservices Conference is organised in collaboration with the [Microservic
 	</thead>
 	<tbody>
 		<tr>
-			<td>2023</td>
-			<td><a href="/files/International_Conference_on_Microservices.docx">We are seeking proposals for hosting and organizing the 2023 edition.</a></td>
+			<td><strong>5th &middot; 2023</strong></td>
+			<td>TBA</td>
 			<td>
-				TBD
+				TBA
 			</td>
 		</tr>
 	</tbody>

@@ -33,10 +33,16 @@ The Microservices Conference is organised in collaboration with the [Microservic
 	</thead>
 	<tbody>
 		<tr>
-			<td><strong>5th &middot; 2023</strong></td>
-			<td>TBA</td>
+			<td><a href="/2023/index.html"><strong>5th &middot; 2023</strong></a>
+			</td>
+			<td>University of Pisa, <strong>Pisa</strong>, Italy
+				<p><strong>October 10-12, 2023</strong></p>
+			</td>
 			<td>
-				TBA
+				<strong>Antonio Brogi</strong>,		University of Pisa (IT)<br>
+				<strong>Tomas Cerny</strong>,				Baylor University (US)<br>
+				<strong>Valentina Lenarduzzi</strong>,	University of Oulu (FI)<br>
+				<strong>Jacopo Soldani</strong>,				University of Pisa (IT)<br>
 			</td>
 		</tr>
 	</tbody>
